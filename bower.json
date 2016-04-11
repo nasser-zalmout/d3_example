@@ -1,0 +1,25 @@
+{
+  "name": "d3_example",
+  "homepage": ";",
+  "authors": [
+    "nasser-zalmout <nasserzlm@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    ";"
+  ],
+  "license": ";",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
